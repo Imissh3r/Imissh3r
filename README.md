@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sree Prasanth</h1>
 
-<p align="center">Aspiring Frontend Developer | Building with HTML, CSS & JavaScript | Anime & Tech Enthusiast</p>
+<p align="center">Aspiring Frontend Developer | Learning Web Development | Anime & Tech Enthusiast</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learning+by+doing+🧠;Building+web+projects+💻;Loving+the+journey+❤️" alt="Typing SVG" />
@@ -10,11 +10,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Following **The Odin Project**
-- 🌱 Learning HTML, CSS, JavaScript & DOM
-- 🛠️ Focused on **clean design + interactivity**
-- 🎯 Goal: Become a **Frontend Developer** and beyond
-- ⚔️ Favorite Quote: *"I don’t pray to God. I pray to my sword." – Zoro*
+- 🔭 Currently following **The Odin Project**
+- 🌱 Learning **HTML, CSS, JavaScript & DOM**
+- 🛠️ Exploring design, interactivity & responsiveness
+- 🎯 Goal: Become a solid **Frontend Developer**
+- ⚔️ *"I don’t pray to God. I pray to my sword." – Zoro*
 
 ---
 
@@ -42,22 +42,22 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imissh3r&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imissh3r&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imissh3r&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imissh3r&layout=compact&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🧭 Zoro Mode Activated
+### 🧭 Zoro Mode
 
 > 💬 *"When you decide to go after something, don’t expect anybody to help you."*
 
 <p align="center">
-  <img src="https://media.tenor.com/N6oVr93pKskAAAAd/zoro-one-piece.gif" height="200"/>
+  <img src="https://media1.tenor.com/m/cq32Sr3ymEsAAAAd/zoro-roronoa-zoro.gif" height="200" />
 </p>
 
 ---
@@ -65,11 +65,10 @@
 ### 📫 Connect With Me
 
 - 💬 DM me on [Instagram](https://www.instagram.com/f0rsake.n?utm_source=qr&igsh=MW1xc2oxejZ1d3FpMA==)
-- 👀 Check out my journey here on [GitHub](https://github.com/Imissh3r)
+- 👀 Follow my journey here on [GitHub](https://github.com/Imissh3r)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Imissh3r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-blueviolet?style=flat&logo=github" />
 </p>
