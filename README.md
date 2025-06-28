@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sree Prasanth</h1>
 
-<p align="center">Aspiring Frontend Developer | Learning Web Development | Anime & Tech Enthusiast</p>
+<p align="center">Aspiring Full-stack Developer | Learning Web Development | Anime & Tech Enthusiast</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learning+by+doing+🧠;Building+web+projects+💻;Loving+the+journey+❤️" alt="Typing SVG" />
@@ -13,8 +13,8 @@
 - 🔭 Currently following **The Odin Project**
 - 🌱 Learning **HTML, CSS, JavaScript & DOM**
 - 🛠️ Exploring design, interactivity & responsiveness
-- 🎯 Goal: Become a solid **Frontend Developer**
-- ⚔️ *"I don’t pray to God. I pray to my sword." – Zoro*
+- 🎯 Goal: Become a well-rounded **Full-stack Developer**
+- ⚔️ *"Bring on the hardship. It's preferred in a path of carnage." – Zoro*
 
 ---
 
@@ -43,10 +43,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imissh3r&layout=compact&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imissh3r&layout=compact&hide_border=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Imissh3r&theme=gruvbox&no-frame=true&column=7" />
 </p>
 
 ---
@@ -58,6 +59,30 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/cq32Sr3ymEsAAAAd/zoro-roronoa-zoro.gif" height="200" />
 </p>
+
+---
+
+### 🚀 Learning Roadmap
+
+Here’s what I’m learning now and planning to tackle next 👇
+
+#### ✅ Currently Learning
+- [x] HTML5, CSS3 fundamentals
+- [x] JavaScript basics and DOM manipulation
+- [x] Git & GitHub workflows
+- [x] GitHub Pages / Deployment
+- [x] Building interactive projects (RPS Showdown, Landing Page)
+
+#### 🛣️ Coming Up Next
+- [ ] Responsive Web Design (media queries, mobile-first)
+- [ ] JavaScript ES6+ (arrow functions, destructuring, modules)
+- [ ] Intermediate DOM projects (Etch-a-Sketch, Calculator)
+- [ ] Clean UI/UX and accessibility
+
+#### 🧠 Later Goals
+- [ ] React.js basics
+- [ ] Backend fundamentals (Node.js / Express)
+- [ ] Full-stack web apps
 
 ---
 
