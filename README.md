@@ -43,7 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imissh3r&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
