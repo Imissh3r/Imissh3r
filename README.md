@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sree Prasanth</h1>
 
-<!--
-**Imissh3r/Imissh3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Aspiring Frontend Developer | Building with HTML, CSS & JavaScript | Anime & Tech Enthusiast</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Learning+by+doing+🧠;Building+web+projects+💻;Loving+the+journey+❤️" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 Following **The Odin Project**
+- 🌱 Learning HTML, CSS, JavaScript & DOM
+- 🛠️ Focused on **clean design + interactivity**
+- 🎯 Goal: Become a **Frontend Developer** and beyond
+- ⚔️ Favorite Quote: *"I don’t pray to God. I pray to my sword." – Zoro*
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 🌐 Featured Projects
+
+| 🧩 Project | 🌍 Live Demo | 📁 Repo |
+|-----------|--------------|---------|
+| 🍔 **Odin Recipes** | [View Site](https://imissh3r.github.io/odin-recipes/) | [GitHub](https://github.com/Imissh3r/odin-recipes) |
+| 🎯 **Landing Page** | [View Site](https://imissh3r.github.io/landing-page/) | [GitHub](https://github.com/Imissh3r/landing-page) |
+| 🪨📄✂️ **RPS Showdown** | [Play Game](https://imissh3r.github.io/rps-showdown/) | [GitHub](https://github.com/Imissh3r/rps-showdown) |
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imissh3r&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imissh3r&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧭 Zoro Mode Activated
+
+> 💬 *"When you decide to go after something, don’t expect anybody to help you."*
+
+<p align="center">
+  <img src="https://media.tenor.com/N6oVr93pKskAAAAd/zoro-one-piece.gif" height="200"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 💬 DM me on [Instagram](https://www.instagram.com/f0rsake.n?utm_source=qr&igsh=MW1xc2oxejZ1d3FpMA==)
+- 👀 Check out my journey here on [GitHub](https://github.com/Imissh3r)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imissh3r&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-blueviolet?style=flat&logo=github" />
+</p>
