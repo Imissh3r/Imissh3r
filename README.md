@@ -31,13 +31,6 @@
 
 ### 🌐 Featured Projects
 
-| 🧩 Project | 🌍 Live Demo | 📁 Repo |
-|-----------|--------------|---------|
-| 🪨📄✂️ **RPS Showdown** | [Play Game](https://imissh3r.github.io/rps-showdown/) | [GitHub](https://github.com/Imissh3r/rps-showdown) |
-| 🎨 **Etch-a-Sketch** | [Draw Here](https://imissh3r.github.io/etch-a-sketch/) | [GitHub](https://github.com/Imissh3r/etch-a-sketch) |
-| 🍔 **Odin Recipes** | [View Site](https://imissh3r.github.io/odin-recipes/) | [GitHub](https://github.com/Imissh3r/odin-recipes) |
-| 🎯 **Landing Page** | [View Site](https://imissh3r.github.io/landing-page/) | [GitHub](https://github.com/Imissh3r/landing-page) |
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=etch-a-sketch" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=rps-showdown" />
@@ -54,6 +47,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Imissh3r&theme=gruvbox&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img src="./metrics.svg" />
 </p>
 
 ---
