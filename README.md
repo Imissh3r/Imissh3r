@@ -49,10 +49,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Imissh3r&theme=gruvbox&no-frame=true&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Imissh3r/Imissh3r/main/metrics.svg" />
-</p>
-
 ---
 
 ### 🧭 Zoro Mode
