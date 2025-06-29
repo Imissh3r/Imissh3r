@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.svg" />
+  <img src="https://raw.githubusercontent.com/Imissh3r/Imissh3r/main/metrics.svg" />
 </p>
 
 ---
