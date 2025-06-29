@@ -14,7 +14,7 @@
 - 🌱 Learning **HTML, CSS, JavaScript & DOM**
 - 🛠️ Exploring design, interactivity & responsiveness
 - 🎯 Goal: Become a well-rounded **Full-stack Developer**
-- ⚔️ *"Bring on the hardship. It's preferred in a path of carnage." – Zoro*
+- ⚔️ *"Bring on the hardship — it's preferred on a path of carnage." – Zoro*
 
 ---
 
@@ -33,9 +33,15 @@
 
 | 🧩 Project | 🌍 Live Demo | 📁 Repo |
 |-----------|--------------|---------|
+| 🪨📄✂️ **RPS Showdown** | [Play Game](https://imissh3r.github.io/rps-showdown/) | [GitHub](https://github.com/Imissh3r/rps-showdown) |
+| 🎨 **Etch-a-Sketch** | [Draw Here](https://imissh3r.github.io/etch-a-sketch/) | [GitHub](https://github.com/Imissh3r/etch-a-sketch) |
 | 🍔 **Odin Recipes** | [View Site](https://imissh3r.github.io/odin-recipes/) | [GitHub](https://github.com/Imissh3r/odin-recipes) |
 | 🎯 **Landing Page** | [View Site](https://imissh3r.github.io/landing-page/) | [GitHub](https://github.com/Imissh3r/landing-page) |
-| 🪨📄✂️ **RPS Showdown** | [Play Game](https://imissh3r.github.io/rps-showdown/) | [GitHub](https://github.com/Imissh3r/rps-showdown) |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=etch-a-sketch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=rps-showdown" />
+</p>
 
 ---
 
@@ -71,12 +77,12 @@ Here’s what I’m learning now and planning to tackle next 👇
 - [x] JavaScript basics and DOM manipulation
 - [x] Git & GitHub workflows
 - [x] GitHub Pages / Deployment
-- [x] Building interactive projects (RPS Showdown, Landing Page)
+- [x] Building interactive projects (RPS Showdown, Landing Page, Etch-a-Sketch)
 
 #### 🛣️ Coming Up Next
 - [ ] Responsive Web Design (media queries, mobile-first)
 - [ ] JavaScript ES6+ (arrow functions, destructuring, modules)
-- [ ] Intermediate DOM projects (Etch-a-Sketch, Calculator)
+- [ ] Intermediate DOM project (Calculator)
 - [ ] Clean UI/UX and accessibility
 
 #### 🧠 Later Goals
