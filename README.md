@@ -3,7 +3,7 @@
 <p align="center">Aspiring Full-Stack Developer • Building things one project at a time</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=Learning+by+doing+🧠;Loving+clean+UIs+💡;Coding+daily+💻" alt="Typing SVG" />
+  <img src="scrolling-banner.svg" alt="Scrolling banner" />
 </p>
 
 ---
