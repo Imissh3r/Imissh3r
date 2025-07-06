@@ -3,8 +3,11 @@
 <p align="center">Aspiring Full-Stack Developer • Building things one project at a time</p>
 
 <p align="center">
-  <img src="scrolling-banner.svg" alt="Scrolling banner" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer%20in%20Progress;Practicing%20daily%20with%20projects;Always%20learning%20something%20new!&font=Fira+Code&center=true&width=550&height=45&color=00F3FF&vCenter=true&pause=1000&size=22" /> 
+  </a>
 </p>
+
 
 ---
 
