@@ -56,16 +56,22 @@
 
 ---
 
+## 📊 GitHub Stats & Languages
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Imissh3r&show_icons=true&theme=city_lights&hide_border=true&bg_color=00000000) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imissh3r&layout=compact&theme=city_lights&hide_border=true&langs_count=8&bg_color=00000000) |
+
+---
+
 ### 🧭 Learning Roadmap
 
-```diff
-✅ HTML, CSS basics
-✅ JavaScript DOM & logic
-✅ Git / GitHub workflows
-🔄 Intermediate projects (Etch-a-Sketch, Calculator)
-➕ Responsive design & layout patterns
-📦 Coming Soon: React, Node.js, and full-stack practice
-```
+- ✅ HTML, CSS basics  
+- ✅ JavaScript DOM & logic  
+- ✅ Git / GitHub workflows  
+- 🔄 Intermediate projects (Etch-a-Sketch, Calculator)  
+- ➕ Responsive design & layout patterns  
+- 📦 Coming Soon: React, Node.js, and full-stack practice  
 
 ---
 
