@@ -1,12 +1,7 @@
-<h1 align="center">Hey there👋 I'm Sree Prasanth</h1>
+<h1 align="center">Sree Prasanth Jayaraj</h1>
 
-<p align="center">Aspiring Full-Stack Developer • Building things one project at a time</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:3b82f6&height=120&section=footer&text=Aspiring%20Full-Stack%20Developer%20%7C%20React%20Learner&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer%20in%20Progress;Practicing%20daily%20with%20projects;Always%20learning%20something%20new!&font=Fira+Code&center=true&width=550&height=45&color=00F3FF&vCenter=true&pause=1000&size=22" /> 
-  </a>
-</p>
 
 ---
 
@@ -20,8 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔨 Following **The Odin Project**
-- 🧠 Exploring **HTML, CSS, JS**, and frontend architecture
+- 🔨 Following **The Odin Project** + **Jonas Schmedtmann’s JS Course**
+- 🧠 Completed **Odin Foundations** & **JetBrains JS course**
+- 🎨 Built projects with **HTML, CSS, JavaScript, DOM & Flex/Grid**
+- 📚 Currently learning **React**  
 - ⚔️ _"Bring on the hardship — it's preferred on a path of carnage." — Zoro_
 
 ---
@@ -31,6 +28,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -52,6 +50,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://imissh3r.github.io/landing-page/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=landing-page&theme=radical" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://imissh3r.github.io/rps-showdown/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=rps-showdown&theme=radical" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -66,12 +76,12 @@
 
 ### 🧭 Learning Roadmap
 
-- ✅ HTML, CSS basics  
-- ✅ JavaScript DOM & logic  
-- ✅ Git / GitHub workflows  
-- 🔄 Intermediate projects (Etch-a-Sketch, Calculator)  
-- ➕ Responsive design & layout patterns  
-- 📦 Coming Soon: React, Node.js, and full-stack practice  
+- ✅ Odin Foundations (HTML, CSS, Git, JS basics, DOM)  
+- ✅ JetBrains JS course (advanced JS, async, OOP)  
+- ✅ Jonas’ Beginner JS section + projects (Pig Game, Modal, Guess Number)  
+- 🔄 Styling & UI polish (Glassmorphism, Flex + Grid layouts)  
+- 📦 Next Up: **React (components, props, state, hooks)**  
+- 🌐 Future: **Node.js, Express, MongoDB → Full Stack**  
 
 ---
 
