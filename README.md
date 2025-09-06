@@ -11,6 +11,7 @@
 ---
 
 ### 🚀 About Me
+
 ```zsh
 sree@haki:~$ whoami
 Aspiring Full-Stack Developer | React in progress ⚛️
@@ -22,6 +23,8 @@ Loves: One Piece • Coding • Anime • Coffee
 - 🎨 Built projects with **HTML, CSS, JavaScript, DOM & Flex/Grid**
 - 📚 Currently learning **React**  
 - ⚔️ _"Bring on the hardship — it's preferred on a path of carnage." — Zoro_
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6ysqo9fogxut667erubl2m6y5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6ysqo9fogxut667erubl2m6y5&redirect=true)
 
 ---
 
