@@ -1,7 +1,5 @@
-<h1 align="center">Sree Prasanth Jayaraj</h1>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:3b82f6&height=120&section=footer&text=Aspiring%20Full-Stack%20Developer%20%7C%20React%20Learner&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
-
+<h1>Hello👋, I'm Sree</h1>
+<p>⚡ Aspiring Full-Stack Developer • ⚛️ Currently learning React • 🛠️ Building Projects</p>
 
 ---
 
@@ -10,10 +8,14 @@
 🖥️ Check out my live portfolio:  
 🔗 [https://imissh3r.github.io/sree-portfolio/](https://imissh3r.github.io/sree-portfolio/)
 
-
 ---
 
 ### 🚀 About Me
+```zsh
+sree@haki:~$ whoami
+Aspiring Full-Stack Developer | React in progress ⚛️
+Loves: One Piece • Coding • Anime • Coffee
+```
 
 - 🔨 Following **The Odin Project** + **Jonas Schmedtmann’s JS Course**
 - 🧠 Completed **Odin Foundations** & **JetBrains JS course**
