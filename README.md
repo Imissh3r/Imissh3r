@@ -6,7 +6,7 @@
 ### 🌐 Portfolio
 
 🖥️ Check out my live portfolio:  
-🔗 [https://imissh3r.github.io/sree-portfolio/](https://imissh3r.github.io/sree-portfolio/)
+🔗 [[https://sree-dev-portfolio.vercel.app/](https://sree-dev-portfolio.vercel.app/)]
 
 ---
 
