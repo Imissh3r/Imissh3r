@@ -98,7 +98,7 @@ Loves: One Piece • Coding • Anime • Coffee
 
 ### 📫 Let's Connect
 
-- 📸 [Instagram](https://www.instagram.com/f0rsake.n)
+- 📸 [Instagram](https://www.instagram.com/karthiii.02)
 - 💻 [GitHub](https://github.com/Imissh3r)
 
 <p align="center">
