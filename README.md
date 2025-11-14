@@ -20,8 +20,9 @@ Loves: One Piece • Coding • Anime • Coffee
 
 - 🔨 Following **The Odin Project** + **Jonas Schmedtmann’s JS Course**
 - 🧠 Completed **Odin Foundations** & **JetBrains JS course**
-- 🎨 Built projects with **HTML, CSS, JavaScript, DOM & Flex/Grid**
-- 📚 Currently learning **React**  
+- 🧪 Experienced with DOM, Events, OOP, Async JS, Flexbox & Grid
+- 📚 Currently learning React (components → props → state → hooks)
+- 🎯 Goal: Become a clean, modern Full-Stack JS Developer
 - ⚔️ _"Bring on the hardship — it's preferred on a path of carnage." — Zoro_
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6ysqo9fogxut667erubl2m6y5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6ysqo9fogxut667erubl2m6y5&redirect=true)
@@ -45,6 +46,18 @@ Loves: One Piece • Coding • Anime • Coffee
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/Imissh3r/cinelens">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=cinelens&theme=radical" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Imissh3r/travel-journal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=travel-journal&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://imissh3r.github.io/calculator/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=calculator&theme=radical" />
       </a>
@@ -52,18 +65,6 @@ Loves: One Piece • Coding • Anime • Coffee
     <td align="center">
       <a href="https://imissh3r.github.io/etch-a-sketch/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=etch-a-sketch&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://imissh3r.github.io/landing-page/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=landing-page&theme=radical" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://imissh3r.github.io/rps-showdown/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imissh3r&repo=rps-showdown&theme=radical" />
       </a>
     </td>
   </tr>
